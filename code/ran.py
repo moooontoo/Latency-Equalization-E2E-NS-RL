@@ -67,7 +67,7 @@ def select_action(state,act_net):
     x_p = np.array(
         [x1_p, x2_p, x3_p, x4_p, x5_p, x6_p, x7_p, x8_p, x9_p, x10_p, x11_p, x12_p, x13_p, x14_p, x15_p, x16_p, x17_p,
          x18_p, x19_p, x20_p])
-    # 信道选择为6个可选信道
+    # 信道选择为20个可选信道
     x1_c = np.argmax(x1_c.view(20).cpu().detach().numpy())
     x2_c = np.argmax(x2_c.view(20).cpu().detach().numpy())
     x3_c = np.argmax(x3_c.view(20).cpu().detach().numpy())
