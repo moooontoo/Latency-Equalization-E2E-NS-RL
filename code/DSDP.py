@@ -1,7 +1,7 @@
-#from ran import *
-from users_plus.DDQN_50 import rlRan
-from users_plus.DeepQNetwork_50 import *
-from Test_50 import test
+from ran import *
+#from users_plus.DDQN_50 import rlRan
+#from users_plus.DeepQNetwork_50 import *
+from Test import test
 import copy
 import os
 import numpy as np
