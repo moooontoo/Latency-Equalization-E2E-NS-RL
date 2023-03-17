@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Jun  7 14:35:50 2018
 
-@author: tianz
-"""
 
 def get_total_link_resources(links):
     link_resources = 0

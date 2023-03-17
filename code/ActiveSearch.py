@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 17 21:11:27 2019
-
-@author: zheng
-"""
 import torch
 
 from Embedding_and_Release import get_hops_and_link_consumptions

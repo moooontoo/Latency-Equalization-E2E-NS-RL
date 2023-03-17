@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 17 21:10:21 2019
-
-@author: zheng
-"""
 import numpy as np
 import torch
 import torch.nn as nn
