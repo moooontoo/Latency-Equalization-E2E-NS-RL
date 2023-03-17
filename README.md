@@ -12,6 +12,6 @@ The slicing algorithms in RAN and CN have been abstracted into functions (rlRAN,
 
 The "user_plus" folder contains the updated rlRAN() , which only adjust the number of users.
 
-The "data" folder contains "virtualnetworkTP.txt", which records the information of the SFC. You can add new SFCs by following the same format.
+The "data" folder contains "virtualnetworkTP.txt", which records the information of the SFCs. You can add new SFCs by following the same format.
 
 
