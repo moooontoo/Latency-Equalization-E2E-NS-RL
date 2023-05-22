@@ -12,3 +12,17 @@ from: 3 to: 2 bw: 1500.0
 from: 4 to: 3 bw: 2500.0
 from: 5 to: 4 bw: 1500.0
 The life time is:--- 9999
+This is  virtual network-----1
+6 250
+7 750
+8 1250
+9 2500
+10 2250
+11 2500
+node-link-information:
+from: 7 to: 6 bw: 1500.0
+from: 8 to: 7 bw: 1500.0
+from: 9 to: 8 bw: 1500.0
+from: 10 to: 9 bw: 2500.0
+from: 11 to: 10 bw: 1500.0
+The life time is:--- 9999
